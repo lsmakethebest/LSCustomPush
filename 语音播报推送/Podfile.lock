@@ -1,0 +1,15 @@
+PODS:
+  - Shimmer (1.0.2)
+  - UMessage (1.4.0)
+
+DEPENDENCIES:
+  - Shimmer
+  - UMessage
+
+SPEC CHECKSUMS:
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  UMessage: f1619a28fdf03190050a67280e181dd422a980dc
+
+PODFILE CHECKSUM: de9f9e19fb71ad03eb00410a320630458227bc1b
+
+COCOAPODS: 1.2.1
